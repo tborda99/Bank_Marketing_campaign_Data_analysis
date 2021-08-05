@@ -4,7 +4,9 @@ The language used is Python 3, through Jupyter notebook.
 The latex and markdowns are in Spanish. 
 
 The project includes:
-- basic variables analysis and getting to know the dataset
+- basic variables analysis and getting to know the dataset.
+- heatmap correlations: Pearson and Spearman 
+- Missing data visualization with missingo
 - seaborn plots
 - Train, Test split
 - sklearn confusion_matrix
