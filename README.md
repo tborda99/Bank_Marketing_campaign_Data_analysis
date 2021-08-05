@@ -15,3 +15,8 @@ The project includes:
 - sklearn LogisticRegression
 - sklearn RandomForestClassifier
 - sklearn KNNImputer
+
+
+
+
+Project by Azadain, Bordaberry, Etchegorry and Odizzio.
