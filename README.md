@@ -1,5 +1,5 @@
 # Bank_Marketing_Campaign_Data_Analysis
-This is a data analysis project done for a phone marketing campaign of a bank.
+This is a data analysis project done for a phone marketing campaign of a bank as a final project for Introduction to Data Science course.
 The language used is Python 3, through Jupyter notebook.
 The latex and markdowns are in Spanish. 
 
